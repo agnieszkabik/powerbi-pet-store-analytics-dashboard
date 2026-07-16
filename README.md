@@ -25,12 +25,33 @@ Cele biznesowe
 Wykorzystane technologie
   • MySQL    • Microsoft Power BI    • Power Query    • DAX    
 
-Główne Wskaźniki i Analizy (KPI)
 
+W projekcie opracowano wskaźniki (KPI) umożliwiające monitorowanie efektywności sprzedaży oraz zachowań klientów, m.in.:
 
-
-
-
+Sprzedaż:
+• Przychód całkowity
+• Liczba zamówień
+• Liczba sprzedanych produktów
+• Średnia wartość zamówienia
+• Realizacja celu sprzedażowego (%)
+• Zmiana przychodu względem poprzedniego miesiąca
+• Zmiana liczby zamówień względem poprzedniego miesiąca
+Klienci:
+• Liczba klientów
+• Średni przychód na klienta
+• Średnia liczba zamówień na klienta
+• Średnia liczba produktów na klienta
+Produkty:
+• Liczba produktów
+• Średnia cena produktu
+• Średnia liczba zamówień na produkt
+• Dostępność magazynowa
+• Najlepiej sprzedające się produkty
+Zwroty:
+• Liczba zwrotów
+• Wskaźnik zwrotów
+• Średnia wartość zwrotu
+• Najczęstsze przyczyny zwrotów
 
 Źródło Danych
 Dane wykorzystane w projekcie są fikcyjne i zostały wygenerowane na potrzeby projektu.
