@@ -3,6 +3,7 @@ Kompleksowa analiza sklepu zoologicznego obejmująca analizę sprzedaży, zwrot�
 
 
 Opis projektu
+
 Projekt przedstawia kompleksowe dashboardy analityczne wspierający zarządzanie sklepem zoologicznym. Raport został zaprojektowany z myślą o kadrze zarządzającej i umożliwia monitorowanie sprzedaży, klientów, produktów oraz zwrotów z wykorzystaniem interaktywnych wizualizacji Power BI.
 
 
