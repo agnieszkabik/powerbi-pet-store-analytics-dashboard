@@ -8,14 +8,23 @@ Projekt przedstawia kompleksowe dashboardy analityczne wspierający zarządzanie
 
 
 Zakres projektu
+
 • Zaprojektowanie relacyjnej bazy danych dla sklepu zoologicznego
+
 • Implementację bazy danych w MySQL Workbench
+
 • Przygotowanie i załadowanie danych testowych
+
 • Połączenie Power BI z bazą MySQL
+
 • Transformację danych w Power Query
+
 • Zaprojektowanie modelu danych
+
 • Stworzenie miar i wskaźników w DAX
+
 • Opracowanie interaktywnych dashboardów biznesowych
+
 • Analizę sprzedaży, klientów, produktów oraz zwrotów
 
 Cele biznesowe
