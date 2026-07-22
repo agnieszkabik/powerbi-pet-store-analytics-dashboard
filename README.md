@@ -99,12 +99,20 @@ Dane wykorzystane w projekcie są fikcyjne i zostały wygenerowane na potrzeby p
 
 Wizualizacje
 Zamówienia:
+
 <img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/55af81c4-c492-4a6d-8d8d-628ddb7d763b" />
 
 Zwroty:
+
+<img width="1416" height="797" alt="image" src="https://github.com/user-attachments/assets/d3b826aa-3c90-48f0-ae4d-74412050fee9" />
+
 Klienci:
+
+<img width="1276" height="712" alt="image" src="https://github.com/user-attachments/assets/8c008e6c-e70f-4189-ae42-0d6538238188" />
+
 Produkty:
 
+<img width="1412" height="801" alt="image" src="https://github.com/user-attachments/assets/4d5dc189-a28d-4f78-bbd0-2d6622ca2d7b" />
 
 
 Instalacja i Uruchomienie
