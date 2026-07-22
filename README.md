@@ -27,6 +27,7 @@ Zakres projektu
 
 • Analizę sprzedaży, klientów, produktów oraz zwrotów
 
+
 Cele biznesowe
 
 • Monitorowanie KPI sprzedaży
@@ -98,6 +99,8 @@ Dane wykorzystane w projekcie są fikcyjne i zostały wygenerowane na potrzeby p
 
 Wizualizacje
 Zamówienia:
+<img width="1400" height="788" alt="image" src="https://github.com/user-attachments/assets/55af81c4-c492-4a6d-8d8d-628ddb7d763b" />
+
 Zwroty:
 Klienci:
 Produkty:
